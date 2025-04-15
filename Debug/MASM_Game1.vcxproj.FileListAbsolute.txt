@@ -1,0 +1,3 @@
+C:\Users\danzw\source\repos\MASM_Game1\Debug\MASM_Game1.vcxproj.CopyComplete
+C:\Users\danzw\source\repos\MASM_Game1\Debug\MASM_Game1.exe
+C:\Users\danzw\source\repos\MASM_Game1\Debug\raylib.dll
