@@ -31,8 +31,10 @@
     <ClCompile Include="RaylibINC.c" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="draw.inc" />
     <None Include="Globals.inc" />
     <None Include="logic.inc" />
+    <None Include="setup.inc" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

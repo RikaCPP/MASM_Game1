@@ -1,3 +1,6 @@
+IFNDEF GLOBALS_INC
+GLOBALS_INC EQU 1
+
 EXTERN InitWindow :PROC
 EXTERN SetTargetFPS :PROC
 EXTERN WindowShouldClose :PROC
@@ -26,3 +29,5 @@ Player STRUCT
 Player ENDS
 
 sPlayer Player <103,107>
+
+ENDIF
